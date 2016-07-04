@@ -1,0 +1,25 @@
+# Ignore editor settings
+*~
+*.swp
+*.swo
+.idea
+.project
+nbproject
+.DS_STORE
+
+# base public files
+public/.htaccess
+public/sitemap.xml
+
+# Configuration files
+config/local-config.php
+
+# Node files
+node_modules
+bower_components
+archive
+
+# Logs
+cron.log
+npm-debug.log
+public/*.log
