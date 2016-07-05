@@ -16,6 +16,11 @@ Bottle.value('Backbone', Backbone);
 
 
 /**
+ * Set up the decorator for controllers, adding extend/etc
+ */
+
+
+/**
  * Constructed Services
  */
 var BottleRouter = require('lib/bottleRouter');
